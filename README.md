@@ -37,3 +37,13 @@
 
 </div>
 
+<div align="center">
+
+# 📊 GitHub Stats  
+
+<div style="background-color: white; padding: 20px; border-radius: 10px; width: 60%; text-align: center;">
+<img src="https://github-readme-stats.vercel.app/api?username=anseohub&show_icons=true&theme=default&hide_border=true" width="50%">
+</div>
+
+</div>
+
