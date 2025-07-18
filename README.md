@@ -3,10 +3,7 @@
     <img src="https://capsule-render.vercel.app/api?type=transparent&color=ca4444&height=120&text=SeoHyun's%20GitHub&animation=&fontColor=fdc0cb&fontSize=70" />
 </div>
 
-<!-- Hits 카운터는 Markdown 형식으로 별도 배치 -->
-<p align="center">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanseohub&count_bg=%23FFE8E8&title_bg=%23FFCECE&icon=&icon_color=%23FFDBDB&title=hits&edge_flat=true"/>
-</p>
+
 
 <div align="center">
 
@@ -19,6 +16,20 @@
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 
+</div>
+
+---
+
+<div align="center">
+    
+# 🛠 Tools  
+
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  
 </div>
 
 ---
